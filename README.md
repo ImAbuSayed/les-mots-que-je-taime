@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton parfum de luxe m'attire
+> Nos regards se croisent, je n'ai plus rien à te dire
+> La basse résonne, la nuit parisienne s'embrase
+> Viens près de moi, oublions tout ce qui nous écrase
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
