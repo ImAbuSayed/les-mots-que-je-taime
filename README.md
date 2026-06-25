@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-mots-que-je-taime/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Mots Que Je T'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-mots-que-je-taime/) |
+| **Get License** | [Secure Licensing Rights for Les Mots Que Je T'aime](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-mots-que-je-taime/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f05b7886f41b3250a452dcf6149fbd462766fda834671ccb66de4236e4218d5e` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
